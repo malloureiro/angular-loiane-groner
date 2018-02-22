@@ -1,0 +1,32 @@
+
+Modern Javascript from the Beginning
+https://www.udemy.com/modern-javascript-from-the-beginning/?couponCode=YOUTUBE10
+
+Palestra Microsoft: What's new in typescript? by Anders Hejlsberg
+https://channel9.msdn.com/Events/Build/2017/B8088/
+
+http://angularexpo.com/
+
+****** COMANDOS ******
+
+Typescript
+Compila o arquivo: tsc <nome_arquivo>.ts
+Compila arquivos em watch mode: tsc -init + tsc -w
+
+Visual Code
+Abre o editor de texto com o código existente neste diretório: code .
+
+**** LEARNING *****
+
+Tabela de compatibilidade do ES6
+http://kangax.github.io/compat-table/es6
+
+Web Development in 2018 - A Practical Guide
+https://www.youtube.com/watch?v=Zftx68K-1D4
+
+Academind - ES6 Javascript The Basics
+https://www.youtube.com/watch?v=IEf1KAcK6A8
+https://github.com/topheman/vanilla-es6-jspm/wiki
+
+Derek Banas - ECMAScript 6 Tutorial
+https://www.youtube.com/watch?v=Jakoi0G8lBg

@@ -1,3 +1,11 @@
+/** 
+ * Compilar arquivo: tsc <nomearquivo>.ts
+ * Comandos watch: 
+ * tsc -init
+ * tsc -w
+ * Sempre que o arquivo .ts for alterado e salvo, o compilador irá rodar (watch)
+*/
+
 interface Person {
     firstName: string;
     lastName: string;
@@ -17,3 +25,9 @@ function greeter(person: Person) {
 
 let user = new Student("Mariana", "Lopes", "Loureiro");
 document.body.innerHTML = greeter(user);
+
+function sortPerson(a: Person[]) {
+    var result = a.slice(0);
+}
+
+sortPerson([]);
