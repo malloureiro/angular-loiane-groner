@@ -18,11 +18,17 @@ Abre o editor de texto com o código existente neste diretório: code .
 
 **** LEARNING *****
 
+Práticas
+https://www.lytmus.io
+
 Tabela de compatibilidade do ES6
 http://kangax.github.io/compat-table/es6
 
-Web Development in 2018 - A Practical Guide
+TraversyMedia - Web Development in 2018 - A Practical Guide
 https://www.youtube.com/watch?v=Zftx68K-1D4
+
+Academind - Top 8 Web Development Trends 2018
+https://www.youtube.com/watch?v=g13dSerjICk
 
 Academind - ES6 Javascript The Basics
 https://www.youtube.com/watch?v=IEf1KAcK6A8
@@ -30,3 +36,117 @@ https://github.com/topheman/vanilla-es6-jspm/wiki
 
 Derek Banas - ECMAScript 6 Tutorial
 https://www.youtube.com/watch?v=Jakoi0G8lBg
+
+TraversyMedia - Learn JavaScript By Building A Bookmarker Application
+https://www.youtube.com/watch?v=DIVfDZZeGxM&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=2
+
+TraversyMedia - 
+
+Learn HTML5
+Anúncio
+ udemy.com
+Próximo
+REPRODUÇÃO AUTOMÁTICA
+
+18:28
+Finding A Web Developer Job With No Experience
+Traversy Media
+125 mil visualizações
+
+1:08:22
+JavaScript Fundamentals For Beginners
+Traversy Media
+560 mil visualizações
+
+40:57
+Web Development in 2018 - A Practical Guide
+Traversy Media
+288 mil visualizações
+
+27:55
+CSS Grid Layout Crash Course
+Traversy Media
+246 mil visualizações
+
+1:56:47
+HTML5/CSS3 Flat Responsive Website - Start To Finish Web Design Tutorial
+Drew Ryan
+409 mil visualizações
+
+28:00
+How to Create Website Layouts Using CSS Grid | Learn HTML and CSS | HTML Tutorial
+mmtuts
+190 mil visualizações
+
+13:38
+How I Became a Web Developer in 2 Months and Got a Job!
+Dreaded Dev
+Recomendado
+
+15:45
+Learn HTML5 in 15 minutes!
+GeekyBrackets
+91 mil visualizações
+
+49:09
+Grid CSS Responsive Website Layout - "Mobile First" Design
+Traversy Media
+64 mil visualizações
+
+19:04
+Starting A Serious Web Development Project
+Traversy Media
+47 mil visualizações
+
+26:38
+Full Screen Landing Page - Responsive HTML5/CSS3 Tutorial
+Drew Ryan
+162 mil visualizações
+
+32:06
+CSS Grid Changes EVERYTHING - Amazing Presentation
+Coding Tech
+356 mil visualizações
+
+10:29
+How To Become a Front-End Web Developer or Engineer in 3 Months | A Roadmap
+Aaron in Beta
+54 mil visualizações
+
+5:02
+HTML5 as Fast As Possible
+Techquickie
+576 mil visualizações
+
+1:01:12
+Angular 4 In 60 Minutes
+Traversy Media
+537 mil visualizações
+
+4:58
+How I Learned to Code - and Got a Job at Google!
+CS Dojo
+619 mil visualizações
+
+45:33
+Build a Responsive Grid CSS Website Layout From Scratch
+Traversy Media
+25 mil visualizações
+
+1:01:47
+Vue.js 2.0 In 60 Minutes
+Traversy Media
+313 mil visualizações
+
+1:13:27
+Bootstrap Beginner Crash Course
+Traversy Media
+244 mil visualizações
+
+47:34
+Create a Responsive Website With the W3 CSS Framework
+Traversy Media
+53 mil visualizações
+
+Build An HTML5 Website With A Responsive Layout
+https://www.youtube.com/watch?v=Wm6CUkswsNw
